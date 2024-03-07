@@ -1,0 +1,4 @@
+<pessoas>
+    <pessoa Altura="1.75" CPF="479.919.358-92" Idade="19" Nome="João Pedro " Peso="70.5"/>
+    <pessoa Altura="1.6" CPF="123.123.123-23" Idade="19" Nome="Joel" Peso="80.0"/>
+</pessoas>
